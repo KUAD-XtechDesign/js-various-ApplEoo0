@@ -19,6 +19,10 @@ img{
   margin: 0 auto;
 }
 
+.font_test {
+  font-family: serif;
+}
+
 .grid-item {
   max-width: 100%;
   width: 200px;
